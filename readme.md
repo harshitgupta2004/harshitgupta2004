@@ -5,3 +5,4 @@
 <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshitgupta2004&theme=tokyonight" width="364px"> -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitgupta2004&theme=tokyonight">
 </p>
+[Resume (University Format).pdf](https://github.com/harshitgupta2004/harshitgupta2004/files/10830630/Resume.University.Format.pdf)
