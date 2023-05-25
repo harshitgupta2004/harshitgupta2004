@@ -1,4 +1,4 @@
-### Hello, my name is Harshit Gupta 
+### Hello, My name is Harshit Gupta 
 <p align="center">
 <img alt="contributions" width="420.74px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=harshitgupta2004&theme=tokyonight&show_icons=true" width="420.74px">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitgupta2004&layout=compact&theme=tokyonight" width="320.67px">
